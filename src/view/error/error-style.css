@@ -1,0 +1,17 @@
+.default__error {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 900px;
+  height: 150px;
+  text-align: center;
+  font-size: 34px;
+  font-weight: 600;
+  color: #ff4d4d;
+  background-color: #d7b4b473;
+  border: 4px solid #ff4d4d;
+}
